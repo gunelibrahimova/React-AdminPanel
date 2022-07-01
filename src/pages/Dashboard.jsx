@@ -1,16 +1,10 @@
 import React from 'react'
+import SideBar from '../components/SideBar/SideBar'
 
 const Dashboard = () => {
   return (
-    <div>
-        <div className="row">
-            <div className="col-lg-3">
-                jefnej
-            </div>
-            <div className="col-lg-9">
-
-            </div>
-        </div>
+    <div className='row'>
+        jdnfskjdn
     </div>
   )
 }
